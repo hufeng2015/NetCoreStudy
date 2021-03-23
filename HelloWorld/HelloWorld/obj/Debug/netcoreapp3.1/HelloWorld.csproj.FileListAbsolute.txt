@@ -1,0 +1,13 @@
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\明源云库\mingyuanyunV2\个人文件\系统学习\.NetCore学习\NetCoreStudy\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
